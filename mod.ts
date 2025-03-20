@@ -1,1 +1,1 @@
-export { createFetchInterceptor } from "./main.ts";
+export { createFetchInterceptor, fetchit } from "./main.ts";
